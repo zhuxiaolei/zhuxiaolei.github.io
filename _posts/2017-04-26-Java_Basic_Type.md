@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Java 基本类型占用字节数"
-date: 2017-04-26 
+title: "Java基本类型占用字节数"
+date: 2017-04-28 
 description: "Java 基本类型占用字节数"
 tag: JAVA 
 ---  
@@ -23,7 +23,6 @@ tag: JAVA
 		System.out.println("boolean : " + Boolean.toString(true));
 	}
 
-
 ### 输出
 	
 	int     二进制位数: 32 字节: 4
@@ -34,6 +33,5 @@ tag: JAVA
 	float   二进制位数: 32 字节: 4
 	douible 二进制位数: 64 字节: 8
 	boolean : true
-
 
 转载请注明原地址，朱肖磊的博客：[http://zhuxiaolei.github.io](http://zhuxiaolei.github.io) 谢谢！

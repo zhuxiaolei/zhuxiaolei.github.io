@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Activity 流程设计器之部署生成xml png"
+title: "Activity流程设计器之部署生成xml,png"
 date: 2017-04-28 
-description: "Activity 流程设计器之部署生成xml png"
+description: "Activity流程设计器之部署生成xml,png"
 tag: JAVA 
 ---  
  
